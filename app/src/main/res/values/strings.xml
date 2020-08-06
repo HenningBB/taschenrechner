@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Taschenrechner</string>
+    <string name="zahlHinweis">Bitte Zahl eingeben</string>
+    <string name="berechneBtn">Berechnen</string>
+    <string name="ergebnis">Ergebnis:</string>
+    <string name="selection">test:</string>
+    <string-array name="zeichen">
+        <item>Bitte Rechenart auswählen</item>
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
